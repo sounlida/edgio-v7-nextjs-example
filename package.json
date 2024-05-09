@@ -12,13 +12,13 @@
     "format": "prettier '**/*' --write --ignore-unknown"
   },
   "dependencies": {
-    "next": "^13.4.1",
+    "next": "^14.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@edgio/cli": "^7.2.8",
-    "@edgio/core": "^7.2.8",
+    "@edgio/cli": "^7.11.4",
+    "@edgio/core": "^7.11.4",
     "@edgio/devtools": "^7.2.8",
     "@edgio/next": "^7.2.8",
     "@edgio/prefetch": "^7.2.8",
